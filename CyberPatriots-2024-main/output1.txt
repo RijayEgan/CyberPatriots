@@ -1,0 +1,32 @@
+Do you want to enable firewall? (yes/no)Firewall has not been changed
+error changeall
+error changing min pass len
+minpassdays() error
+Password policies have been set, editing /etc/login.defs and pam.d.
+Do you want to disable SSH Root Login? (yes/no)error disabling root login
+Unable to get User List error
+netcat has been removed.
+netcat-openbsd has been removed.
+netcat-traditional has been removed.
+ncat has been removed.
+pnetcat has been removed.
+socat has been removed.
+sock has been removed.
+socket has been removed.
+sbd has been removed.
+john has been removed.
+john-data has been removed.
+hydra has been removed.
+hydra-gtk has been removed.
+aircrack-ng has been removed.
+fcrackzip has been removed.
+lcrack has been removed.
+ophcrack has been removed.
+ophcrack-cli has been removed.
+pdfcrack has been removed.
+pyrit has been removed.
+rarcrack has been removed.
+sipcrack has been removed.
+irpas has been removed.
+Netcat and all other instances have been removed.
+main error
